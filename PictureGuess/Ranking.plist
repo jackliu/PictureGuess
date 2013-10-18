@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RankingTable</key>
+	<dict>
+		<key>0</key>
+		<integer>100</integer>
+		<key>1</key>
+		<string>200</string>
+		<key>2</key>
+		<string>300</string>
+	</dict>
+</dict>
+</plist>
